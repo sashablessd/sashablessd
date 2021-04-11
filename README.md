@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashablessd
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning javaskript and frameforks
+- 🌱 I’m currently learning javasсript and frameforks
 - 💞️ I’m looking to collaborate with person who knows more than me
 - 📫 How to reach me iv glad to see u in my telegram (t.me/sashablesssd) or inst (sashablessd)
 
